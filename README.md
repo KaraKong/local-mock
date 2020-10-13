@@ -1,4 +1,4 @@
-# local-mock 本地mock项目，简单易上手
+# local-mock 本地mock项目，前后端联调mock后端数据
 
 基于gulp开发的简单易用的本地mock 项目
 
